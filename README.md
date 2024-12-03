@@ -3,7 +3,7 @@
 - 👀 I’m Passionate about continuous learning
 - 🌱 I’m currently learning advanced Flutter debugging techniques
 - 💞️ I’m looking to collaborate on open-source Flutter projects or innovative mobile app ideas.
-- 📫 How to reach me: [maria1326@gmail.com] or connect on [Instagram](https://www.instagram.com/mobile_app_developer_369/).
+- 📫 How to reach me: [Facebook](https://www.facebook.com/mobile.app.developer.369) or connect on [Instagram](https://www.instagram.com/mobile_app_developer_369/).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can debug code faster than I can cook dinner!
 
